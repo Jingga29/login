@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Percobaan</title>
+        <title>Password Input</title>
     </head>
     <body>
         <p>LOGIN</p>
