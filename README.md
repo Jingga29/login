@@ -13,7 +13,7 @@
             <p>Password:
                 <input type="password" name="password" size="15" maxlength="30" placeholder="Password">
             </p>
-            <input type="submit" value="Login">
+            <button onclick="hitung()"> Login</button><br>
         </form>
     
     </body>
